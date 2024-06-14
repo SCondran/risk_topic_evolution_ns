@@ -1,0 +1,42 @@
+100x100
+ldaTopics [['hold'], 
+['tell', 'leave', 'hrs', 'phone'], 
+['cancel', 'flight'], 
+['aa', 'really'], 
+['board', 'dont', 'late', 'sit', 'lose', 'plan', 'miss'],
+['today', 'agent'], 
+['service'], 
+['book', 'flight', 'change', 'hour'], 
+['say', 'like', 'airport']]
+--- 6894.073515892029 seconds ---
+
+50x50 Map
+ldaTopics [['seat'], 
+['bag', 'say'], 
+['ive', 'hold', 'min'], 
+['delay'], 
+['book'], 
+['miss', 'make', 'dont'], 
+['board', 'plane', 'sit', 'plan', 'late'], 
+['service', 'change', 'minutes'], 
+['flight', 'cancel']]
+--- 171.35213351249695 seconds ---
+
+25X25
+ldaTopics [['aa', 'seat', 'book', 'like', 'work', 'upgrade', 'check'],
+ ['cancel', 'flight', 'fly', 'make'], 
+ ['really', 'know', 'ask', 'like', 'tell'], 
+ ['usairways', 'good', 'service'], 
+ ['delay', 'flight'], 
+ ['service', 'point', 'customer', 'ago'], 
+ ['hold', 'try']]
+--- 19.732973337173462 seconds ---
+
+15x15 Map
+ldaTopics [['wait', 'line', 'care', 'miss', 'need', 'travel', 'way'], 
+['time', 'need', 'wait', 'travel', 'like', 'days', 'ive', 'tell', 'know', 'hold', 'phone', 'book', 'number', 'say', 'use', 'ask', 'try', 'agent', 'hours', 'dm', 'really', 'upgrade', 'flight', 'today', 'person', 'change', 'line', 'airport', 'make', 'help', 'people', 'luggage', 'online'], 
+['flight', 'need', 'airport', 'wait', 'today', 'say', 'ive', 'make', 'agent'], 
+['problems', 'travel'], 
+['days', 'thank', 'say', 'cancel', 'seat', 'time', 'miss', 'need', 'dm', 'flightled', 'rude', 'want', 'work', 'wait', 'come', 'fly', 'tell', 'like', 'today', 'flight', 'response', 'luggage', 'book', 'make'], 
+['luggage', 'rude', 'lose', 'say', 'days', 'time']]
+--- 7.759999990463257 seconds ---
